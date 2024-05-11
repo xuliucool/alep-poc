@@ -19,12 +19,12 @@ Some notable subsidiaries include: XBC Wealth (wealth management and investment 
 ## Services:
 XBC offers a wide range of financial services, including:
 
-- ### Personal banking (checking, savings, credit cards, loans, etc.)
-- ### Small business banking
-- ### Commercial banking (large corporate clients)
-- ### Investment and wealth management
-- ### Mortgage and home equity products
-- ### Consumer lending (credit cards, personal loans, etc.)
+- Personal banking (checking, savings, credit cards, loans, etc.)
+- Small business banking
+- Commercial banking (large corporate clients)
+- Investment and wealth management
+- Mortgage and home equity products
+- Consumer lending (credit cards, personal loans, etc.)
 
 
 ## Locations
