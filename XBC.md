@@ -2,7 +2,7 @@
 
 
 ## History
-Founded in 1980 by Amadeo Peter Giannini, it was renamed Bank of XBC in 1990 after a merger with Bank of XYZ, Malaysia. Today, XBC is one of the largest financial institutions in the world.
+Founded in 1980 by Harry Jackson, it was renamed Bank of XBC in 1990 after a merger with Bank of XYZ, Malaysia. Today, XBC is one of the largest financial institutions in the world.
 
 
 ## Headquarters
