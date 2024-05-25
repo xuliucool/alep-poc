@@ -1,22 +1,23 @@
 # Bank of XBC
 
 
-## History
-Founded in 1980 by Harry Jackson, it was renamed Bank of XBC in 1990 after a merger with Bank of XYZ, Malaysia. Today, XBC is one of the largest financial institutions in the world.
+## XBC History
+XBC is a bank, which was founded in 1980 by Harry Jackson. Today, XBC is one of the largest financial institutions in the world. As of Q1 2024, XBC's total assets stood at approximately $1.1 trillion. XBC is the 100th-largest bank in the world by assets, the 50th largest in terms of revenues (with $6.5 billion) and the 30th in terms of market value (with $18.2 billion).
+XBC is also one of the most profitable banks in the world with $1.13 billion in net income in 2023. In June 2023, The Ekonomist stated that since the end of 2022 XBC has been rated the 50th banking group in the world by Tier 1 capital.  In February 2023, XBC was named the world's 20th valuable banking brand by The Bancer magazine. XBC has been audited by PvC, one of the big auditors since 2010.
 
 
-## Headquarters
+## XBC Headquarters
 Singapore
 
-## Size, profit and auditors
+## XBC Size, profit and auditors
 As of Q1 2024, Bank of XBC's total assets stood at approximately $1.1 trillion. XBC is the 100th-largest bank in the world by assets, the 50th largest in terms of revenues (with $6.5 billion) and the 30th in terms of market value (with $18.2 billion).
 XBC is also one of the most profitable banks in the world with $1.13 billion in net income in 2023. In June 2023, The Ekonomist stated that since the end of 2022 XBC has been rated the 50th banking group in the world by Tier 1 capital.  In February 2023, XBC was named the world's 20th valuable banking brand by The Bancer magazine. XBC has been audited by PvC, one of the big auditors since 2010.
 
-## Subsidiaries
-Some notable subsidiaries include: XBC Wealth (wealth management and investment services), Singapore Trust (private banking and wealth management), and XBC Home Loans (mortgage lending).
+## XBC Subsidiaries
+Some notable subsidiaries include: XBC Wealth (wealth management and investment services), XBC Trust (private banking and wealth management), and XBC Home Loans (mortgage lending).
 
 
-## Services:
+## XBC Services:
 XBC offers a wide range of financial services, including:
 
 - Personal banking. Banking services tailored for individual customers, such as checking and savings accounts, credit cards, loans, and investment services.
@@ -28,28 +29,28 @@ XBC offers a wide range of financial services, including:
 - Global Banking: Cross-border financial services for multinational corporations, including international trade finance, foreign exchange, and investment banking services.
 
 
-## Locations
+## XBC Locations
 With over 3,000 retail financial centers and approximately 16,000 ATMs across the APAC, XBC has a significant physical presence.
 
 
-## Employees
+## XBC Employees
 As of Q1 2024, XBC employs around 100,000 people globally.
 
-## Leadership ##
+## XBC Leadership ##
 - Group Chaiman: George Johnson
 - Group Chief Executive: Michael Potts 
 
 
-## Philanthropy
-Bank of XBC is committed to philanthropy, with a focus on education, economic mobility, and environmental initiatives. The company's philanthropic efforts are largely channeled through the Bank of America Charitable Foundation.
+## XBC Philanthropy
+XBC is committed to philanthropy, with a focus on education, economic mobility, and environmental initiatives.
 
 ## Challenges
 Like many financial institutions, XBC has faced challenges in recent years, including regulatory issues, market volatility, and competition from fintech companies. 
 
-## Interesting facts
+## XBC Interesting Facts
 The company's iconic logo features a blue box with the words "Bank of XBC" written in white. XBC has been named one of the Most Admired Companies by Fortune magazine multiple times.
 
-## Products
+## XBC Products
 - **XBC Direct.** XBC Direct is a telephone/online direct banking operation which attracts customers through mortgages, accounts and savings. It was first launched in Singapore in November 2010.
 
 - **XBCnet.**
