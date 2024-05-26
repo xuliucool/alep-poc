@@ -36,7 +36,7 @@ XBC has over 3,000 retail financial centers and approximately 16,000 ATMs across
 
 
 ## XBC Employees
-XBC employs around 100,00 people globally.
+XBC employs around 5,000 people globally.
 
 ## XBC Leadership ##
 XBC Group Chaiman is George Johnson. XBC Group Chief Executive is Michael Potts. 
