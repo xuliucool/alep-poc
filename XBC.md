@@ -50,8 +50,7 @@ Like many financial institutions, XBC has faced challenges in recent years, incl
 
 
 ## XBC Interesting Facts
-XBC's logo features a blue box with the words "XBC" written in white. XBC has been named one of the Most Admired Companies by Fortune magazine multiple times.
-
+The XBC logo features the Roman numeral X (which stands for 10) as its central design, surrounded by a circle of 24 stars (representing the 24 hours in a day). The logo is intended to represent XBC's commitment to providing high-quality, reliable, and accessible financial services for its customers, available around the clock, 24/7.
 ## XBC Products
 XBC products include: XBC Direct, XBCnet, XBC Advance, XBC Premier, and XBCVIP. 
 - **XBC Direct.** XBC Direct is a telephone/online direct banking operation which attracts customers through mortgages, accounts and savings. It was first launched in Singapore in November 2010.
