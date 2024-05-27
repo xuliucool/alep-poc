@@ -46,7 +46,8 @@ XBC Group Chaiman is George Johnson. XBC Group Chief Executive is Michael Potts.
 XBC is committed to philanthropy, with a focus on education, economic mobility, and environmental initiatives.
 
 ## Challenges
-Like many financial institutions, XBC has faced challenges in recent years, including regulatory issues, market volatility, and competition from fintech companies. 
+Like many financial institutions, XBC has faced challenges in recent years, including regulatory issues, market volatility, and competition from fintech companies. In response, XBC is investing heavily in technology and innovation, focusing on creating digital banking solutions that meet the needs of its customers and enable faster, more efficient transactions. XBC is also working on improving its customer service and support, ensuring that customers receive personalized attention and support when needed, and offering a range of digital banking channels that allow customers to manage their finances from anywhere, at any time. XBC is also working on expanding its network of branches and ATMs, ensuring that customers have access to banking services when and where they need them, regardless of whether they're at home, at work, or on the go.
+
 
 ## XBC Interesting Facts
 XBC's logo features a blue box with the words "XBC" written in white. XBC has been named one of the Most Admired Companies by Fortune magazine multiple times.
